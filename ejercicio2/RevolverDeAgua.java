@@ -1,4 +1,4 @@
-package ejercicio2;
+
 
 public class RevolverDeAgua {
     private Integer posicionActual;
